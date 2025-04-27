@@ -27,7 +27,7 @@ export function UserDropdown() {
           size='icon'
           className='cursor-pointer text-dark rounded-full focus-visible:ring-0 focus-visible:border-ring-0'
         >
-          <User className='text-black' />
+          <User />
         </Button>
       </DropdownMenuTrigger>
 
